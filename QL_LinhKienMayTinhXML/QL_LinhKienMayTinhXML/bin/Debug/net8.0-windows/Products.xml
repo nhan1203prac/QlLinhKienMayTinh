@@ -1,0 +1,42 @@
+<Products>
+  <Product>
+    <MaLinhKien>7</MaLinhKien>
+    <TenLinhKien>RAM 8GB DDR4</TenLinhKien>
+    <LoaiLinhKien>RAM</LoaiLinhKien>
+    <SoLuong>50</SoLuong>
+    <HangSanXuat>Kingston</HangSanXuat>
+    <Gia>800000.00</Gia>
+  </Product>
+  <Product>
+    <MaLinhKien>8</MaLinhKien>
+    <TenLinhKien>SSD 512GB NVMe</TenLinhKien>
+    <LoaiLinhKien>SSD</LoaiLinhKien>
+    <SoLuong>30</SoLuong>
+    <HangSanXuat>Samsung</HangSanXuat>
+    <Gia>2500000.00</Gia>
+  </Product>
+  <Product>
+    <MaLinhKien>9</MaLinhKien>
+    <TenLinhKien>CPU Intel Core i5</TenLinhKien>
+    <LoaiLinhKien>CPU</LoaiLinhKien>
+    <SoLuong>20</SoLuong>
+    <HangSanXuat>Intel</HangSanXuat>
+    <Gia>4500000.00</Gia>
+  </Product>
+  <Product>
+    <MaLinhKien>10</MaLinhKien>
+    <TenLinhKien>Mainboard B660</TenLinhKien>
+    <LoaiLinhKien>Mainboard</LoaiLinhKien>
+    <SoLuong>15</SoLuong>
+    <HangSanXuat>ASUS</HangSanXuat>
+    <Gia>3500000.00</Gia>
+  </Product>
+  <Product>
+    <MaLinhKien>11</MaLinhKien>
+    <TenLinhKien>Card đồ họa GTX 1660</TenLinhKien>
+    <LoaiLinhKien>GPU</LoaiLinhKien>
+    <SoLuong>10</SoLuong>
+    <HangSanXuat>NVIDIA</HangSanXuat>
+    <Gia>7000000.00</Gia>
+  </Product>
+</Products>

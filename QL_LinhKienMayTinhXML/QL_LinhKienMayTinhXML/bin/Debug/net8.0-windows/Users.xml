@@ -1,0 +1,44 @@
+<Users>
+  <User>
+    <AccountID>1</AccountID>
+    <Username>admin</Username>
+    <Password>123456</Password>
+    <RoleName>Admin</RoleName>
+    <CreatedAt>14/12/2024 4:37:56 pm</CreatedAt>
+  </User>
+  <User>
+    <AccountID>2</AccountID>
+    <Username>nhanvien1</Username>
+    <Password>123456</Password>
+    <RoleName>Nhân viên</RoleName>
+    <CreatedAt>14/12/2024 4:37:56 pm</CreatedAt>
+  </User>
+  <User>
+    <AccountID>3</AccountID>
+    <Username>nhanvien2</Username>
+    <Password>123456</Password>
+    <RoleName>Nhân viên</RoleName>
+    <CreatedAt>14/12/2024 4:37:56 pm</CreatedAt>
+  </User>
+  <User>
+    <AccountID>4</AccountID>
+    <Username>khachhang1</Username>
+    <Password>123456</Password>
+    <RoleName>Khách hàng</RoleName>
+    <CreatedAt>14/12/2024 4:37:56 pm</CreatedAt>
+  </User>
+  <User>
+    <AccountID>5</AccountID>
+    <Username>khachhang2</Username>
+    <Password>123456</Password>
+    <RoleName>Khách hàng</RoleName>
+    <CreatedAt>14/12/2024 4:37:56 pm</CreatedAt>
+  </User>
+  <User>
+    <AccountID>6</AccountID>
+    <Username>khachhang4</Username>
+    <Password>123456</Password>
+    <RoleName>Khách hàng</RoleName>
+    <CreatedAt>14/12/2024 4:37:56 pm</CreatedAt>
+  </User>
+</Users>

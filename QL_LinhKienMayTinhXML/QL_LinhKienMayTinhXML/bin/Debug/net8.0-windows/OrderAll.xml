@@ -1,0 +1,23 @@
+<Orders>
+  <Order>
+    <OrderID>4</OrderID>
+    <CustomerID>1</CustomerID>
+    <PhoneNumber>0961234567</PhoneNumber>
+    <OrderDate>2024-12-15</OrderDate>
+    <TotalAmount>1500000.00</TotalAmount>
+  </Order>
+  <Order>
+    <OrderID>7</OrderID>
+    <CustomerID>2</CustomerID>
+    <PhoneNumber>0939876543</PhoneNumber>
+    <OrderDate>2024-12-15</OrderDate>
+    <TotalAmount>2000.00</TotalAmount>
+  </Order>
+  <Order>
+    <OrderID>8</OrderID>
+    <CustomerID>3</CustomerID>
+    <PhoneNumber>0974567890</PhoneNumber>
+    <OrderDate>2024-12-15</OrderDate>
+    <TotalAmount>2500.00</TotalAmount>
+  </Order>
+</Orders>

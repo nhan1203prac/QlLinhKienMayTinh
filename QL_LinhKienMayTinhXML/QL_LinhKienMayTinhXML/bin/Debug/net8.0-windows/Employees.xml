@@ -1,0 +1,18 @@
+<Employees>
+  <Employee>
+    <EmployeeID>1</EmployeeID>
+    <FullName>Nguyễn Văn An</FullName>
+    <PhoneNumber>0987654321</PhoneNumber>
+    <Email>nguyenvana@gmail.com</Email>
+    <Position>Kỹ thuật viên</Position>
+    <Salary>12000000</Salary>
+  </Employee>
+  <Employee>
+    <EmployeeID>2</EmployeeID>
+    <FullName>Lê Thị B</FullName>
+    <PhoneNumber>0912345678</PhoneNumber>
+    <Email>lethib@gmail.com</Email>
+    <Position>Nhân viên kinh doanh</Position>
+    <Salary>10000000</Salary>
+  </Employee>
+</Employees>
